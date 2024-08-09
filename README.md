@@ -65,4 +65,4 @@ The analysis is based on sales data from the fiscal years 2020 and 2021. The dat
 This project highlights the capability of SQL in addressing specific business needs and providing actionable insights. By analyzing the given data, the management can make better-informed decisions that could drive growth and optimize operations.
 
 ## Presentation PDF
-You can download the detailed presentation of this project [here]([link-to-your-pdf](https://github.com/UjjwalGrg/SQL-projects/blob/main/ad-hoc-insights.pdf)).
+You can download the detailed presentation of this project [here](https://github.com/UjjwalGrg/SQL-projects/blob/main/ad-hoc-insights.pdf).
